@@ -1,5 +1,6 @@
-### Hi there 👋
+<img alt="Dark Orb" src="https://github.com/davethai/davethai/blob/main/dark-orb%20.gif" />
 
+# Dave Thai
 I'm Dave Thai from the United States and enjoy building. You can visit my portfolio at [davethai.com](https://davethai.com)
 
 ---
