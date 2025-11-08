@@ -13,5 +13,4 @@
 ---
 
 ### Logitech MX Ergo Trackball Mouse
-[![Logitech MX Ergo](https://images-na.ssl-images-amazon.com/images/I/61Jj1HWKhKL._AC_SL1500_.jpg)](https://amzn.to/47JPEw6)
-
+[![Logitech MX Ergo](https://m.media-amazon.com/images/I/61Xsc-lNsXL._AC_SX679_.jpg)](https://amzn.to/47JPEw6)
