@@ -9,8 +9,13 @@
 > Some links below are affiliate links. I may earn a small commission if you purchase through them at no extra cost to you.
 
 ### Apple MacBook Pro 16" M4 Max
-[![MacBook Pro 16"](https://m.media-amazon.com/images/I/61hw7aZWYSL._AC_SX679_.jpg)](https://amzn.to/49axar4)
+<a href="https://amzn.to/49axar4">
+  <img src="https://m.media-amazon.com/images/I/61hw7aZWYSL._AC_SX679_.jpg" width="200px" alt="MacBook Pro 16">
+</a>
+
 ---
 
 ### Logitech MX Ergo Trackball Mouse
-[![Logitech MX Ergo](https://m.media-amazon.com/images/I/61Xsc-lNsXL._AC_SX679_.jpg)](https://amzn.to/47JPEw6)
+<a href="https://amzn.to/47JPEw6">
+  <img src="https://m.media-amazon.com/images/I/61Xsc-lNsXL._AC_SX679_.jpg" width="150px" alt="Logitech MX Ergo">
+</a>
